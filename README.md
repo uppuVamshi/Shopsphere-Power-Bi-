@@ -168,3 +168,20 @@ An **end-to-end E-Commerce Data Analytics project built using SQL and Power BI**
 **Technology Stack:** SQL | MySQL | Power BI | Power Query | DAX
 
 Built as a **Data Analytics portfolio project** to demonstrate practical skills in data cleaning, SQL analysis, data modeling, KPI development, interactive dashboard creation, and data-driven business decision-making.
+
+## DashBoardOverview
+### Executive Dashboard
+<img width="1322" height="758" alt="image" src="https://github.com/user-attachments/assets/e7e8e9c8-8cef-4094-98f0-c68448231295" />
+
+### Customer Retention Dashboard
+<img width="1333" height="756" alt="image" src="https://github.com/user-attachments/assets/5c2949b8-ccfc-46cb-8468-148228723cc7" />
+
+### Product & Return Dashboard
+<img width="1320" height="757" alt="image" src="https://github.com/user-attachments/assets/9e5bb084-8ec9-414b-b3ec-94fb158a95b4" />
+
+## SQL 
+### ER Diagram
+<img width="1112" height="855" alt="image" src="https://github.com/user-attachments/assets/5fcac754-fef5-43fc-8965-15599285f23a" />
+
+
+
